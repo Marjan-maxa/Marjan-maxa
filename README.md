@@ -11,3 +11,4 @@ I regularly practice on competitive platforms to improve my logical thinking and
 
 - 🔹 GitHub: [Marjan-maxa](https://github.com/Marjan-maxa)
 - 🔹 Codeforces: [Oryja101](https://codeforces.com/profile/Oryja101)
+- 🔹 Leetcode:[Marjanboss](https://leetcode.com/u/Marjanboss/)

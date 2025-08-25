@@ -1,4 +1,4 @@
-## 👨‍💻 Md. Baktear Udden Marjan
+👨‍💻 Md. Baktear Udden Marjan
 
 🎓 CSE Student | 💻 Competitive Programmer | 🌱 Lifelong Learner
 
@@ -7,7 +7,7 @@ I regularly practice on competitive platforms to improve my logical thinking and
 
 ---
 
-### 🔗 My Online Profiles
+ 🔗 My Online Profiles
 
 - 🔹 GitHub: [Marjan-maxa](https://github.com/Marjan-maxa)
 - 🔹 Codeforces: [Oryja101](https://codeforces.com/profile/Oryja101)

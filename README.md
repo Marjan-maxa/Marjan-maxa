@@ -1,14 +1,37 @@
-👨‍💻 Md. Baktear Udden Marjan
+#  Hi, I'm Md Marjan!
 
-🎓 CSE Student | 💻 Competitive Programmer | 🌱 Lifelong Learner
-
-I am passionate about solving complex problems using Data Structures and Algorithms.  
-I regularly practice on competitive platforms to improve my logical thinking and coding skills.
+🎓 I'm a 2nd-year Computer Science & Engineering student.  
+💻 Currently learning **Flutter App Development** and doing **light programming** occasionally to strengthen my coding skills.  
 
 ---
 
- 🔗 My Online Profiles
+### 🛠️ Skills & Tools
+- **Languages:** Dart (Flutter), Python, C/C++ (basic)  
+- **Frameworks:** Flutter  
+- **Databases:** Firebase, MySQL (basics)  
+- **Others:** Git, GitHub, REST API
 
-- 🔹 GitHub: [Marjan-maxa](https://github.com/Marjan-maxa)
-- 🔹 Codeforces: [Oryja101](https://codeforces.com/profile/Oryja101)
-- 🔹 Leetcode:[Marjanboss](https://leetcode.com/u/Marjanboss/)
+---
+
+### 🌱 Currently Learning
+- Flutter App Development 📱  
+- API Integration & JSON Handling  
+- Basic programming practice in java, C/C++
+
+---
+
+### 📂 Projects
+- 🧮 Simple Calculator App (Flutter)  
+- ✅ To-Do List App (Flutter)  
+- 🌐 API Data Fetch App (Flutter)  
+- 🔐 Light programming scripts for practice
+
+---
+
+### 📫 Contact Me
+- 📧 Email: boktimd95@gmail.com 
+  
+---
+
+⭐ **“Learning every day, coding every step.”**  
+Thank you for visiting my GitHub profile! 

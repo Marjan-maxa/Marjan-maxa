@@ -6,7 +6,7 @@
 ---
 
 ### 🛠️ Skills & Tools
-- **Languages:** Dart (Flutter), Python, C/C++ (basic)  
+- **Languages:** Dart (Flutter), python(basics), C/C++ 
 - **Frameworks:** Flutter  
 - **Databases:** Firebase, MySQL (basics)  
 - **Others:** Git, GitHub, REST API

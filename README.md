@@ -25,7 +25,8 @@
 - ✅ To-Do List App (Flutter)
 - ✅ Weather App (Flutter)
 - ✅ Bmi Calculator (Flutter)
-- ✅ Task Management App with full rest Api (Flutter)  
+- ✅ Task Management App with full rest Api (Flutter)
+- ✅ Simple Song Media Player (Flutter)  
 - 🌐 API Data Fetch App (Flutter)  
 - 🔐 Light programming scripts for practice
   

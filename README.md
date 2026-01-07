@@ -22,9 +22,13 @@
 
 ### 📂 Projects
 - 🧮 Simple Calculator App (Flutter)  
-- ✅ To-Do List App (Flutter)  
+- ✅ To-Do List App (Flutter)
+- ✅ Weather App (Flutter)
+- ✅ Bmi Calculator (Flutter)
+- ✅ Task Management App with full rest Api (Flutter)  
 - 🌐 API Data Fetch App (Flutter)  
 - 🔐 Light programming scripts for practice
+  
 
 ---
 

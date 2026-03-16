@@ -1,6 +1,6 @@
 #  Hi, I'm Md Marjan!
 
-🎓 I'm a 2nd-year Computer Science & Engineering student.  
+🎓 I'm a 3rd-year Computer Science & Engineering student.  
 💻 Currently learning **Flutter App Development** and doing **light programming** occasionally to strengthen my coding skills.  
 
 ---
@@ -9,13 +9,14 @@
 - **Languages:** Dart (Flutter), python(basics), C/C++ 
 - **Frameworks:** Flutter  
 - **Databases:** Firebase, MySQL (basics)  
-- **Others:** Git, GitHub, REST API
+- **Others:** Git, GitHub, REST API,StateManageMent (Provider)
 
 ---
 
 ### 🌱 Currently Learning
 - Flutter App Development 📱  
-- API Integration & JSON Handling  
+- API Integration & JSON Handling
+- Firebase Database
 - Basic programming practice in java, C/C++
 
 ---
@@ -26,7 +27,8 @@
 - ✅ Weather App (Flutter)
 - ✅ Bmi Calculator (Flutter)
 - ✅ Task Management App with full rest Api (Flutter)
-- ✅ Simple Song Media Player (Flutter)  
+- ✅ Simple Song Media Player (Flutter)
+- 📱 Youtube Lite App
 - 🌐 API Data Fetch App (Flutter)  
 - 🔐 Light programming scripts for practice
   

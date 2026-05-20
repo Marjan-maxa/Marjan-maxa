@@ -1,4 +1,4 @@
-<a href="https://daily.dev/Marjan-maxa"><img src="https://api.daily.dev/devcards/v2/current.png?r=1" width="356" alt="Md Marjan's daily.dev Profile Card" align="right" /></a>
+<a href="https://daily.dev/mdbaktearuddenmarjan"><img src="https://api.daily.dev/devcards/v2/current.png?user=mdbaktearuddenmarjan" width="356" alt="Md Marjan's daily.dev Profile Card" align="right" /></a>
 #  Hi, I'm Md Marjan!
 
 🎓 I'm a 3rd-year Computer Science & Engineering student.  

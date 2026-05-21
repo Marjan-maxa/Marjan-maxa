@@ -8,7 +8,7 @@
 
 ### Professional Profile
 
-As a Computer Science & Engineering student and an intermediate Flutter Developer, I specialize in building scalable, real-world mobile applications. With hands-on experience in modern UI design and robust state management, I focus on delivering seamless user experiences.
+As a Computer Science & Engineering student and an Flutter Developer, I specialize in building scalable, real-world mobile applications. With hands-on experience in modern UI design and robust state management, I focus on delivering seamless user experiences.
 
 - **Currently:** Developing cross-platform mobile applications using Flutter and Dart.
 - **Core Strength:** Building clean architectures, implementing API pagination, and managing states using Provider.

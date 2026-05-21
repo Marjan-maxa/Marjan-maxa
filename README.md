@@ -33,9 +33,10 @@
 - 🌐 API Data Fetch App (Flutter)  
 - 🔐 Light programming scripts for practice
   
+📂My Resume
+https://github.com/Marjan-maxa/My-Resume/blob/master/professional_cv.pdf
 
 ---
-
 ### 📫 Contact Me
 - 📧 Email: boktimd95@gmail.com
 - 🆔portfolio : https://marjan-maxa.github.io/My-Portfollio/

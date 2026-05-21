@@ -1,28 +1,37 @@
+<h4 align="center">Hi there</h4>
+<h1 align="center">I'm Md Marjan</h1>
+<h4 align="center">Intermediate Flutter Developer | CSE Student</h4>
 
-<a href="https://app.daily.dev/mdbaktearuddenmarjan"><img src="https://api.daily.dev/devcards/v2/JoXR8haAOEdaTzOHUJWgP.png?type=default&r=b6r" width="220" align="right" alt="Md.BAKTEAR UDDEN MARJAN's Dev Card"/></a>
+---
 
- ### Hi, I'm Md Marjan!
+<a href="https://app.daily.dev/mdbaktearuddenmarjan"><img src="https://api.daily.dev/devcards/v2/JoXR8haAOEdaTzOHUJWgP.png?type=default&r=nec" width="260" align="right" alt="Md.BAKTEAR UDDEN MARJAN's Dev Card"/></a>
 
-🎓 I'm a 3rd-year Computer Science & Engineering student and an intermediate **Flutter Developer**.  
-💻 Focused on building scalable, real-world mobile applications with clean UI and robust state management.
+### Professional Profile
 
-### 🛠️ Skills & Tools
-- **Languages:** Dart, Python (Basics), C/C++ 
-- **Frameworks:** Flutter  
-- **Databases:** Firebase, MySQL (Basics)  
-- **Others:** Git, GitHub, REST API, State Management (Provider), LaTeX
+As a Computer Science & Engineering student and an intermediate Flutter Developer, I specialize in building scalable, real-world mobile applications. With hands-on experience in modern UI design and robust state management, I focus on delivering seamless user experiences.
 
-### 🌱 Currently Exploring
-- Complex API Integration & JSON Handling (Pagination)
-- Clean Architecture in Flutter
-- AI-assisted software engineering
+- **Currently:** Developing cross-platform mobile applications using Flutter and Dart.
+- **Core Strength:** Building clean architectures, implementing API pagination, and managing states using Provider.
+- **Goal:** Solving complex problems through efficient coding, real-world projects like e-commerce apps, and continuous learning.
+
+### Skills and Tools
+
+- **Languages:** Dart, Python (Basics), C/C++
+- **Mobile App Development:** Flutter
+- **State Management:** Provider
+- **Backend & DB:** Firebase, MySQL (Basics), REST APIs
+- **Others:** Git, GitHub, LaTeX
+- **IDEs:** Android Studio, VS Code
 
 ### 📂 Projects
+
 - 🛒 **Crafty Bay** - A full-featured E-commerce Application (Flutter)
 - ✅ **Task Management App** - Integrated with full REST API (Flutter)
 - 🌤️ **Weather App** (Flutter)
 - 🎵 **Simple Song Media Player** (Flutter)
-- 📱 **Youtube Lite App** - *(And various other utility apps like BMI & Calculators)*
+- 📱 **Youtube Lite App** (Flutter)
+- 📱 **Local Event Finder App
+- 📱 **LLM Based AI Chatbot
 
 ### 📄 Resume & Portfolio
 - 📑 [**View My Professional Resume**](https://github.com/Marjan-maxa/My-Resume/blob/master/professional_cv.pdf)
@@ -30,7 +39,3 @@
 
 ### 📫 Contact Me
 - 📧 **Email:** boktimd95@gmail.com
-
----
-
-⭐ **“Learning every day, coding every step.”** Thank you for visiting my GitHub profile!

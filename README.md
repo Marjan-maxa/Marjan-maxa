@@ -1,6 +1,4 @@
-<a href="https://app.daily.dev/mdbaktearuddenmarjan" target="_blank">
-  <img src="https://api.daily.dev/devcards/v2/current.png?user=mdbaktearuddenmarjan" width="356" align="right" alt="Md Marjan's daily.dev Profile Card" />
-</a>
+<a href="https://app.daily.dev/mdbaktearuddenmarjan"><img src="https://api.daily.dev/devcards/v2/JoXR8haAOEdaTzOHUJWgP.png?type=default&r=sjn" width="356" alt="Md.BAKTEAR UDDEN MARJAN's Dev Card"/></a>
 #  Hi, I'm Md Marjan!
 
 🎓 I'm a 3rd-year Computer Science & Engineering student.  

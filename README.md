@@ -19,8 +19,9 @@ As a Computer Science & Engineering student and an Flutter Developer, I speciali
 - **Mobile App Development:** Flutter
 - **State Management:** Provider
 - **Backend & DB:** Firebase, MySQL (Basics), REST APIs
-- **Others:** Git, GitHub, LaTeX
+- **Operating Systems: Windows, Android
 - **IDEs:** Android Studio, VS Code
+- **Others:** Git, GitHub, LaTeX
 
 ### 📂 Projects
 

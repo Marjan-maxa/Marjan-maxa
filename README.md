@@ -4,7 +4,6 @@
 🎓 I'm a 3rd-year Computer Science & Engineering student.  
 💻 Currently learning **Flutter App Development** and doing **light programming** occasionally to strengthen my coding skills.  
 
----
 
 ### 🛠️ Skills & Tools
 - **Languages:** Dart (Flutter), python(basics), C/C++ 

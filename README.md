@@ -33,6 +33,7 @@ As a Computer Science & Engineering student and an Flutter Developer, I speciali
 - 📱 **Local Event Finder App
 - 📱 **LLM Based AI Chatbot
 - 🖥️ **StegoCrypt Desktop Application .(Secure Image Encryption & Steganography Tool.)
+- 🌐 **Bangladesh Travel Atlas website with Agentic AI
 
 ### 📄 Resume & Portfolio
 - 📑 [**View My Professional Resume**](https://github.com/Marjan-maxa/My-Resume/blob/master/professional_cv.pdf)
